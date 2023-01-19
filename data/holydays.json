@@ -1,0 +1,222 @@
+[
+  {
+    "date": "01-01",
+    "description": "Confraternização Universal (New Year's Day)",
+    "origin": "world",
+    "national": false,
+    "regional": false,
+    "variable": false,
+    "rule": null
+  },
+  {
+    "date": "01-02",
+    "description": "Day after New Year's Day",
+    "origin": "USA",
+    "national": true,
+    "regional": false,
+    "variable": false,
+    "rule": null
+  },
+  {
+    "date": null,
+    "description": "Martin Luther King Jr. Day",
+    "origin": "USA",
+    "national": true,
+    "regional": false,
+    "variable": true,
+    "rule": "third monday of January"
+  },
+  {
+    "date": "01-25",
+    "description": "Aniversário da Cidade de São Paulo",
+    "origin": "BRA",
+    "national": false,
+    "regional": true,
+    "variable": false,
+    "rule": null
+  },
+  {
+    "date": null,
+    "description": "Washington's Day",
+    "origin": "USA",
+    "national": true,
+    "regional": false,
+    "variable": true,
+    "rule": "third monday of February"
+  },
+  {
+    "date": null,
+    "description": "Carnaval (Segunda-Feira)",
+    "origin": "BRA",
+    "national": true,
+    "regional": false,
+    "variable": true,
+    "easter": "-48",
+    "rule": null
+  },
+  {
+    "date": null,
+    "description": "Carnaval (Terça-Feira)",
+    "origin": "BRA",
+    "national": true,
+    "regional": false,
+    "variable": true,
+    "easter": "-47",
+    "rule": null
+  },
+  {
+    "date": null,
+    "description": "Sexta-Feira Santa",
+    "origin": "BRA",
+    "national": true,
+    "regional": false,
+    "variable": true,
+    "easter": "-2",
+    "rule": null
+  },
+  {
+    "date": "04-21",
+    "description": "Dia de Tiradentes",
+    "origin": "BRA",
+    "national": true,
+    "regional": false,
+    "variable": false,
+    "rule": null
+  },
+  {
+    "date": "05-01",
+    "description": "Dia do Trabalho",
+    "origin": "BRA",
+    "national": true,
+    "regional": false,
+    "variable": false,
+    "rule": null
+  },
+  {
+    "date": null,
+    "description": "Memorial Day",
+    "origin": "USA",
+    "national": true,
+    "regional": false,
+    "variable": true,
+    "rule": "last day of May"
+  },
+  {
+    "date": null,
+    "description": "Corpus Christi",
+    "origin": "BRA",
+    "national": true,
+    "regional": false,
+    "variable": true,
+    "easter": "+60",
+    "rule": null
+  },
+  {
+    "date": "07-04",
+    "description": "Independence Day",
+    "origin": "USA",
+    "national": true,
+    "regional": false,
+    "variable": false,
+    "rule": null
+  },
+  {
+    "date": "07-09",
+    "description": "Revolução Constitucionalista - São Paulo",
+    "origin": "BRA",
+    "national": false,
+    "regional": true,
+    "variable": false,
+    "rule": null
+  },
+  {
+    "date": null,
+    "description": "Labor Day",
+    "origin": "USA",
+    "national": true,
+    "regional": false,
+    "variable": true,
+    "rule": "first monday of September"
+  },
+  {
+    "date": "09-07",
+    "description": "Dia da Independência",
+    "origin": "BRA",
+    "national": true,
+    "regional": false,
+    "variable": false,
+    "rule": null
+  },
+  {
+    "date": null,
+    "description": "Columbus Day",
+    "origin": "USA",
+    "national": true,
+    "regional": false,
+    "variable": true,
+    "rule": "second monday of October"
+  },
+  {
+    "date": "10-12",
+    "description": "Dia de Nossa Senhora Aparecida / Dia das Crianças",
+    "origin": "BRA",
+    "national": true,
+    "regional": false,
+    "variable": false,
+    "rule": null
+  },
+  {
+    "date": "10-28",
+    "description": "Dia do Servidor Público",
+    "origin": "BRA",
+    "national": true,
+    "regional": false,
+    "variable": false,
+    "rule": null
+  },
+  {
+    "date": "11-02",
+    "description": "Dia de Finados",
+    "origin": "BRA",
+    "national": true,
+    "regional": false,
+    "variable": false,
+    "rule": null
+  },
+  {
+    "date": "11-11",
+    "description": "Veteran's Day",
+    "origin": "USA",
+    "national": true,
+    "regional": false,
+    "variable": false,
+    "rule": null
+  },
+  {
+    "date": "11-15",
+    "description": "Proclamação da República",
+    "origin": "BRA",
+    "national": true,
+    "regional": false,
+    "variable": false,
+    "rule": null
+  },
+  {
+    "date": null,
+    "description": "Thanksgiving Day",
+    "origin": "USA",
+    "national": true,
+    "regional": false,
+    "variable": true,
+    "rule": "last thursday of November"
+  },
+  {
+    "date": "12-25",
+    "description": "Natal",
+    "origin": "world",
+    "national": true,
+    "regional": false,
+    "variable": false,
+    "rule": null
+  }
+]
