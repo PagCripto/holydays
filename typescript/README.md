@@ -1,1 +1,1 @@
-For this example you must to use `moment.js` and `easter-date` packages.
+For this example you must to use `moment` and `date-easter` packages.
